@@ -9,4 +9,6 @@
 
 <!-- issueTable -->
 
+1. [测试](https://github.com/ozawa8/dailylife/issues/2) 
+2. [晚上拍的花](https://github.com/ozawa8/dailylife/issues/1) 
 <!-- issueTable -->
