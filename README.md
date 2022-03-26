@@ -10,6 +10,5 @@
 <!-- issueTable -->
 
 1. [使用Github actions进行主页自动更新](https://github.com/ozawa8/dailylife/issues/3) 
-2. [测试](https://github.com/ozawa8/dailylife/issues/2) 
-3. [晚上拍的花](https://github.com/ozawa8/dailylife/issues/1) 
+2. [晚上拍的花](https://github.com/ozawa8/dailylife/issues/1) 
 <!-- issueTable -->
