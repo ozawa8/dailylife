@@ -15,6 +15,7 @@ jobs:
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
           pattern: "<!-- issueTable -->"
           state: "open"
+          labels: "BLOG"
           creator: "ozawa8"
           per_page: 100
       - name: add-and-commit
