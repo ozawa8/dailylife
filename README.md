@@ -9,7 +9,8 @@
 
 <!-- issueTable -->
 
-1. [时间过得好快](https://github.com/ozawa8/dailylife/issues/6) 
-2. [使用Github actions进行主页自动更新](https://github.com/ozawa8/dailylife/issues/3) 
-3. [晚上拍的花](https://github.com/ozawa8/dailylife/issues/1) 
+1. [书到用时方恨少](https://github.com/ozawa8/dailylife/issues/7) 
+2. [时间过得好快](https://github.com/ozawa8/dailylife/issues/6) 
+3. [使用Github actions进行主页自动更新](https://github.com/ozawa8/dailylife/issues/3) 
+4. [晚上拍的花](https://github.com/ozawa8/dailylife/issues/1) 
 <!-- issueTable -->
