@@ -9,12 +9,13 @@
 
 <!-- issueTable -->
 
-1. [4月挑战](https://github.com/ozawa8/dailylife/issues/13) 
-2. [疫情又严重了](https://github.com/ozawa8/dailylife/issues/12) 
-3. [吃小龙虾过敏](https://github.com/ozawa8/dailylife/issues/10) 
-4. [随心，随性](https://github.com/ozawa8/dailylife/issues/9) 
-5. [书到用时方恨少](https://github.com/ozawa8/dailylife/issues/7) 
-6. [时间过得好快](https://github.com/ozawa8/dailylife/issues/6) 
-7. [使用Github actions进行主页自动更新](https://github.com/ozawa8/dailylife/issues/3) 
-8. [晚上拍的花](https://github.com/ozawa8/dailylife/issues/1) 
+1. [大大方方去爱](https://github.com/ozawa8/dailylife/issues/14) 
+2. [4月挑战](https://github.com/ozawa8/dailylife/issues/13) 
+3. [疫情又严重了](https://github.com/ozawa8/dailylife/issues/12) 
+4. [吃小龙虾过敏](https://github.com/ozawa8/dailylife/issues/10) 
+5. [随心，随性](https://github.com/ozawa8/dailylife/issues/9) 
+6. [书到用时方恨少](https://github.com/ozawa8/dailylife/issues/7) 
+7. [时间过得好快](https://github.com/ozawa8/dailylife/issues/6) 
+8. [使用Github actions进行主页自动更新](https://github.com/ozawa8/dailylife/issues/3) 
+9. [晚上拍的花](https://github.com/ozawa8/dailylife/issues/1) 
 <!-- issueTable -->
